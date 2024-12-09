@@ -1,4 +1,4 @@
 # kiranande
 this is my first repository
-author kiranande
+author-kiranande
 
